@@ -11,7 +11,7 @@ ReactJS
 Linux
 
 ### Links
-[MyAnimeList](https://myanimelist.net/profile/Marceloo_)
+[MyAnimeList](https://myanimelist.net/profile/Marceloo_)<p>
 [Steam](https://steamcommunity.com/id/marceloocaralho/)
 
 ## Obrigado por visitar meu perfil!
