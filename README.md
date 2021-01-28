@@ -10,7 +10,7 @@ NodeJS
 ReactJS
 Linux
 
-###Links
+### Links
 [MyAnimeList](https://myanimelist.net/profile/Marceloo_)
 [Steam](https://steamcommunity.com/id/marceloocaralho/)
 
