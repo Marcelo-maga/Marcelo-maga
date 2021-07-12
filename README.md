@@ -6,10 +6,10 @@ Amante de animes, mangás e tecnologia, busco me formar em Engenharia da Computa
 e me tornar um programador sênior.
 
 ### O que tenho estudado:
-Ionic<p>
-Angular<p>
-NodeJs<P>
+ReactJS<p>
 Linux<p>
+NodeJs<P>
+Ruby<p>
 
 ### Links
 [MyAnimeList](https://myanimelist.net/profile/Marceloo_)<p>
