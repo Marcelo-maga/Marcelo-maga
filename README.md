@@ -1,18 +1,5 @@
-# Oi, eu sou o Marcelo
-- 3° Ano de Desenvolvimento de Sistemas na Etec Antônio Devisate
-
-### Sobre mim:
-Amante de animes, mangás e tecnologia, busco me formar em Engenharia da Computação
-e me tornar um programador sênior.
-
-### O que tenho estudado:
-ReactJS<p>
-Linux<p>
-NodeJs<P>
-Ruby<p>
-
-### Links
-[MyAnimeList](https://myanimelist.net/profile/Marceloo_)<p>
-[Steam](https://steamcommunity.com/id/marceloocaralho/)
-
-## Obrigado por visitar meu perfil!
+#  Bem-vindo ao meu perfil!
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-maga&show_icons=true&theme=tokyonight" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-maga&layout=compact&theme=tokyonight" />
+<div>
