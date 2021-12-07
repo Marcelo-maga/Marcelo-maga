@@ -8,8 +8,4 @@
       Vamos conversar!</br>
       Meu discord: marcelo-maga#8795
   <h2>
-  </br>
-  <div>
-    <center><img src="https://thumbs.gfycat.com/AcademicEllipticalDwarfmongoose-size_restricted.gif" /><center>
-  </div>
 <div>
