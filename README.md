@@ -2,15 +2,14 @@
 
 ```javascript
   const Marcelo = {
-    "Formação": "Cursando Sistemas de Informação na Univem",
+    "Formação": "Cursando Análise e Desenvolvimento de Sistemas na UNIMAR",
     "Linguagens": ["Javascript", "Typescript"],
     "FrontEnd": ["ReactJs", "HTML", "CSS"],
     "Mobile": ["React Native"]
     "BackEnd": ["NodeJs", "Express", "Prisma", "MySQL", "PostgreSQL"],
-    "Ferramentas": ["VsCode", "Nvim", "Terminal❤", "Insominia", "Git"],
+    "Ferramentas": ["VsCode", "Nvim", "Terminal❤", "Insominia", "Git", "GitKraken"],
     "OS": "Atualmente Windows 10 com WSL2 com Arch",
-    "Futuras Tecnologias": ["Rust", "Ruby", "Python", "MongoDB"]
-    "Discord": "marcelo-maga#8795"
+    "Futuras Tecnologias": ["Rust", "Python", "MongoDB"]
   }
 ```
 <h3>Minhas estatísticas: </h3>
