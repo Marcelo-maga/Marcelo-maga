@@ -1,10 +1,4 @@
 <h2>Bem-vindo 🙌</h2>
-<h3>
-  Me chamo Marcelo e sou apaixonado por tecnologia, <br/>
-  Estudo programação desde dos 14 anos de idade e <br/>
-  atualmente trabalho como Desenvolvedor Desktop Python <br/>
-  na Cuca Fresca Informatica.
-</h3>
 
 ```javascript
   const marcelo = {
