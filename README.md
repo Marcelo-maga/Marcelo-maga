@@ -18,5 +18,3 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-maga&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-maga&layout=compact&theme=midnight-purple" />
 <div>
-
-<h3>Alguns das minhas ideias e configurações: </h3>
