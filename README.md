@@ -4,5 +4,5 @@
 Hello World!
 
 - :sunglasses: I'm Marcelo
-- :crossed_fingers: I like TypeScript
+- :crossed_fingers: I like typescript
 - :crab: And rust
