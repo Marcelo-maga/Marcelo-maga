@@ -1,5 +1,7 @@
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Marcelo-maga&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marcelo-maga&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-maga&layout=compact&theme=midnight-purple" />
+</div>
 
 Hello World!
 
